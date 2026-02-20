@@ -5,10 +5,10 @@
       "has": [
         {
           "type": "host",
-          "value": "rameshwarenterprises.in"
+          "value": "rameshwarenterprisess.in"
         }
       ],
-      "destination": "https://rameshwarenterprises.com/$1",
+      "destination": "https://rameshwarenterprisess.com/$1",
       "permanent": true
     }
   ],
